@@ -1,1 +1,1 @@
-print("Kristīne Štālmane")
+print ("Kristaps Šēpers")
